@@ -1,6 +1,5 @@
 # Hello there 👋
 
-- 🔭 I’m currently working on InfoX
 - 🌱 I’m currently learning at UAIC-FII
 
 <!--
