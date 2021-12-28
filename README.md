@@ -1,6 +1,6 @@
 # Hello there 👋
 
-- 🌱 I’m currently learning at UAIC-FII
+- 🌱 I’m currently learning at [UAIC-FII](https://github.com/ancestor-mithril/UAIC_FII)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ancestor-mithril&layout=compact&count_private=true&hide=Jupyter%20Notebook,Java,Blade&theme=radical)](https://github.com/ancestor-mithril)
