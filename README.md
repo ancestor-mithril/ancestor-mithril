@@ -1,6 +1,8 @@
 # Hello there 👋
 
-- 🌱 I’m currently learning at [UAIC-FII](https://github.com/ancestor-mithril/UAIC_FII)
+- I’m currently learning at [UAIC-FII](https://github.com/ancestor-mithril/UAIC_FII)
+- Programer, passionate about C++ and generic programming. 
+- Data Scientist, working with Pytorch for deep learning in the medical field
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ancestor-mithril&layout=compact&count_private=true&hide=Jupyter%20Notebook,Java,Blade&theme=radical)](https://github.com/ancestor-mithril)
