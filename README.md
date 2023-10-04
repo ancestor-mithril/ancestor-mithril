@@ -1,6 +1,5 @@
 # Hello there 👋
-
-- I’m currently learning at [UAIC-FII](https://github.com/ancestor-mithril/UAIC_FII)
+- PhD student at Faculty of Computer Science, Iasi.
 - Programer, passionate about C++ and generic programming. 
 - Data Scientist, working with Pytorch for deep learning in the medical field.
 
