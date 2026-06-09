@@ -2,6 +2,7 @@
 - PhD student at Faculty of Computer Science, Iasi.
 - Programer, passionate about C++ and generic programming. 
 - Machine Learning Engineer and Data Scientist.
+- [Google Scholar](https://scholar.google.com/citations?user=pGxawu4AAAAJ&hl=en)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ancestor-mithril&layout=compact&count_private=true&hide=Jupyter%20Notebook,Java,Blade&theme=radical)](https://github.com/ancestor-mithril)
